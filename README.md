@@ -16,3 +16,6 @@ I am learning Markdown and GitHub.
 ### Info
 I am learning Markdown and Github.
 And I have edites using the VS code like a pro.
+Now i synced my username and email
+
+#### Hooray!
